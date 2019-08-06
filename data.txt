@@ -1,6 +1,6 @@
 git bhash
 vajag lai iet caur cmd java tad javac Hello.java
-
+s
 izveidot mani prieks skolas caur git b. (school)
 Java
 public class Hello {
