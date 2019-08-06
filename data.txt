@@ -1,0 +1,16 @@
+git bhash
+vajag lai iet caur cmd java tad javac Hello.java
+
+izveidot mani prieks skolas caur git b. (school)
+Java
+public class Hello {
+Public static void main(String[] args {
+System.out.prinyIn(
+}
+Update the PATH variable even if it says it is optional. This is how you do it on a Windows 7 machine:
+
+    Follow Start -> Control Panel -> System and Security -> System (double click on System).
+    Click on Advanced system settings in the left pane.
+    Select the Advanced tab.
+    Select the Environment Variables button.
+    You will see two sections: 'User variables for YourName' and 'System variables'. If you add it to the User variables section, the PATH variable will be in effect only when you are logged on. If you add it to the 'System variables' section, it will be in effect as long as someone is logged on. If you are not sharing the machine with anyone else who writes Java programs, you may add it to either section. (I added it to the 'User variables for alee' section.)
